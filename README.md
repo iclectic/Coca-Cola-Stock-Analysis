@@ -2,6 +2,8 @@
 
 This repository contains a Python script for analysing the historical stock prices of Coca-Cola using various financial indicators and statistical methods. The analysis is performed using the `pandas`, `ta`, `matplotlib`, and `scikit-learn` libraries.
 
+## Kindly click open the notebook.ipynb file to view the code and visualisations!
+
 ## Features
 
 The script performs the following tasks:
